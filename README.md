@@ -1,4 +1,4 @@
-# Investigation-of-UAV-Detection-in-Images-with-Complex-Backgrounds-and-Rainy-Artifacts
+# UAVDet-CBRA
 This is the code for UAV detection with clean and rainy artifacts. We have choosen four SOTA object detctors including Faster-RCNN, RetinaNet, YOLOv5, and YOLOv8.
 The weight file for YOLOv5, YOLOv8, Faster-RCNN and RetinaNet can be downloaded from below given google drive links:
 
