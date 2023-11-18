@@ -13,3 +13,13 @@ RetinaNet: https://drive.google.com/file/d/1zT6kBEEBPtpU1EbgbYkesF35FuKI9UhA/vie
 The complex background dataset (CBD) can be downloaded from this link 
 
 "https://drive.google.com/file/d/1-BmnQe9LllS7EA4NhGGj-2f7MKZjfnR-/view?usp=sharing"
+
+
+If you find the repository useful please cite the following paper:
+@InProceddings{
+author = { Adnan Munir, Abdul Jabbar Siddiqui, and Saeed Anwar},
+title = {Investigation-of-UAV-Detection-in-Images-with-Complex-Backgrounds-and-Rainy-Artifacts},
+booktitle = {Proceeding of the IEEE/CVF winter Conference on Application of Computer Vision},
+month = {November},
+year = {2023},
+}
